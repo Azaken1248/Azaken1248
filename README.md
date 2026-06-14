@@ -6,11 +6,11 @@ I am a developer with experience across multiple domains including systems progr
 
 ### Programming Languages
 
-C, C++, Java, Python, Go, R, JavaScript, TypeScript, HTML, CSS, Shell Scripting
+C, C++, Java, Python, Go, R, JavaScript, TypeScript, HTML(I know this ain't a language), CSS(I know this ain't either), SCSS(sigh!), Shell Scripting
 
 ### Frameworks & Libraries
 
-React, React Native, Express.js, Flask, FastAPI, Node.js, TailwindCSS, Bootstrap, MUI, Qt, JavaFX
+React, React Native, Express.js, Flask, FastAPI, Node.js, TailwindCSS, Bootstrap, MUI, Qt, JavaFX, Spring framework, Springboot
 
 ### Databases & Cloud
 
